@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip",
-  "sha256": "5004F7A603B76D07A1D9479C52E0C6C40FF1439232087C65BC772B50B499F219",
-  "notes": "Авто-обновление + фикс CDP (Singleton/порт)",
-  "builtAt": "2026-06-30T10:00:00"
+  "sha256": "B07451E09C8E03FD570206E8BBC28EA9A654A86C58EBAB07E22AEAD71F008AA8",
+  "notes": "ASCII fix (encoding) + auto-update + CDP fix",
+  "builtAt": "2026-06-30T11:00:00"
 }

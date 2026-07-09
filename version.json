@@ -1,1 +1,6 @@
-{"version": "1.0.15", "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip", "sha256": "D99BD594968095BC9C8E3C6832D2AA69A5DA286B5A5CF46E49A8F23FDF489685", "notes": "remove googletagmanager from blocklist - was blocking Yandex Metrika via GTM", "builtAt": "2026-07-07T12:00:00"}
+{
+  "version": "1.0.16",
+  "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip",
+  "sha256": "B301475B3B065405DF5EC9BBEE4F1394E1AA3F0207B0308B2274DA3B711B80CE",
+  "notes": "maximize window and bring to foreground on start"
+}

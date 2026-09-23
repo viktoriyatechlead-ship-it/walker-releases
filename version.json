@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip",
-  "sha256": "C5571663E98675DA0D5BF0C81530C7736451A0F5F1823986C09DA449BED809B9",
-  "notes": "fix $Host param crash on PS 5.1, PS7 inline-if in Get-ProxyHash, link discovery timeout 5s->15s with retry"
+  "sha256": "91175DD0BEE0924C72BBD1D115E9759AFE9814A9A1AE1947ACF747BABE04E8F3",
+  "notes": "multipage: 2-3 hops instead of 1-2, log failed hops"
 }

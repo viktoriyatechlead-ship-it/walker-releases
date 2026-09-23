@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip",
-  "sha256": "B301475B3B065405DF5EC9BBEE4F1394E1AA3F0207B0308B2274DA3B711B80CE",
-  "notes": "maximize window and bring to foreground on start"
+  "sha256": "C5571663E98675DA0D5BF0C81530C7736451A0F5F1823986C09DA449BED809B9",
+  "notes": "fix $Host param crash on PS 5.1, PS7 inline-if in Get-ProxyHash, link discovery timeout 5s->15s with retry"
 }

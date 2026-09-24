@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip",
-  "sha256": "672EEEA73F217582E7DF1ACFAF32C67CE39BCEEE87A77520C5B6BE7B183888A1",
-  "notes": "proxy with login: stop restarting the browser before every task"
+  "sha256": "03EA6C32944FF0650F73F8DC9F9D3D5C9F511D32AC8B43825CF3055C6263DE92",
+  "notes": "proxy with login via gost: no request interception, proxy settings remembered"
 }

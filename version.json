@@ -1,6 +1,6 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip",
-  "sha256": "03EA6C32944FF0650F73F8DC9F9D3D5C9F511D32AC8B43825CF3055C6263DE92",
-  "notes": "proxy with login via gost: no request interception, proxy settings remembered"
+  "sha256": "C4C5BC25B5B0C8240819FAF60926A7110C898557336CDC7CD9982B668F7CB355",
+  "notes": "second pageview no longer lost to Vary/vary headers in CDP events"
 }

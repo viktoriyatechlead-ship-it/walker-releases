@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "zipUrl": "https://raw.githubusercontent.com/viktoriyatechlead-ship-it/walker-releases/main/runner.zip",
-  "sha256": "ABDFD628E325E40365FBACA6E3B1E7400227A38405BE4E6F8F1F8CE39D31705A",
-  "notes": "proxy switch without restart via gost, less Chrome background traffic, returning visitors"
+  "sha256": "19925408710D4DE424B17CA215E3EA9D9F7C96A0A27D77303C437F0F48C4AD30",
+  "notes": "fix 1.0.22: every open_url round failed under StrictMode"
 }
